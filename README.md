@@ -18,5 +18,5 @@ Se você deseja contribuir para este repositório, siga estas etapas:
 
 1. **Fork**: Faça um fork deste repositório para sua própria conta.
 2. **Clone**: Clone o repositório para a sua máquina local.
-   ```bash
+```bash
    git clone https://github.com/seu-usuario/projeto-mecatronica.git
